@@ -1,0 +1,10 @@
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\bin\Debug\CompGraphLab6.exe.config
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\bin\Debug\CompGraphLab6.exe
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\bin\Debug\CompGraphLab6.pdb
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\obj\Debug\CompGraphLab6.csprojAssemblyReference.cache
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\obj\Debug\CompGraphLab6.Form1.resources
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\obj\Debug\CompGraphLab6.Properties.Resources.resources
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\obj\Debug\CompGraphLab6.csproj.GenerateResource.cache
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\obj\Debug\CompGraphLab6.csproj.CoreCompileInputs.cache
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\obj\Debug\CompGraphLab6.exe
+C:\Users\solox\source\repos\CompGraphLab6\CompGraphLab6\obj\Debug\CompGraphLab6.pdb
